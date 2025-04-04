@@ -2,6 +2,11 @@
 
 ![Screenshot 2025-04-04 at 14 43 30](https://github.com/user-attachments/assets/f80e600b-07ad-4896-af30-07f3d7e8e380)
 
+*NB: the comma separated numeric values or features seen and used in the screenshot above are from the dataset used for this project.*
+*particularly at index 26 of the dataset.*
+
+*LINK TO THE DATASET IS PROVIDED AT THE END OF THIS README.*
+
 
 
 This project uses machine learning to detect potential fraudulent credit card transactions. It includes a Flask web application for interactive prediction, a trained RandomForestClassifier model, and Jupyter Notebooks for exploratory data analysis, model training, and evaluation.
@@ -16,6 +21,8 @@ This project uses machine learning to detect potential fraudulent credit card tr
 - [Dependencies](#dependencies)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
+- [Author](#author)
+- [Data Source](#data-source)
 
 ## Overview
 
@@ -129,9 +136,11 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ## Acknowledgements
 
-- Data source: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 - Thanks to the contributors of scikit-learn, Flask, and the open source community for their valuable libraries and tools.
 - Special thanks to [Any mentors or institutions] for support and guidance.
 
 ## Author
 Fredinard Ohene-Addo
+
+## Data Source
+- https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
