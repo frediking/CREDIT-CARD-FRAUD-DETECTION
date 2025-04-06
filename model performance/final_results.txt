@@ -1,3 +1,5 @@
+for 'rfcc_model2.pkl' model
+
 First Optimal Threshold: 0.450
 New Optimal Threshold: 0.550
 Best Parameters:
