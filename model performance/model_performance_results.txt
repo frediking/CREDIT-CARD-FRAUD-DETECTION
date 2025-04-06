@@ -7,4 +7,4 @@ F1-Score: 0.7547
 ROC AUC: 0.9732
 
 
-for rfcc_mode.pkl
+for rfcc_model.pkl
