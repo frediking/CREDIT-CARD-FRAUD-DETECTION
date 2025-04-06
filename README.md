@@ -144,3 +144,5 @@ Fredinard Ohene-Addo
 
 ## Data Source
 - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+*all models are can be accessed at releases*
